@@ -13,7 +13,7 @@ Below is a snapshot of some of my key projects. Each project folder contains a d
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) | Excel, SQL, R, Python, Power BI | Hands-on data projects to familiarize with tools. |
+| [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) | Excel, SQL, R, Python, Power BI | Practical mini-projects designed to strengthen my skills across multiple tools. |
 | Hybrid Project 1 (Fall 2025) | pending... | pending... |
 | Hybrid Project 2 (Winter 2026) | pending... | pending... |
 | Hybrid Project 3 (Winter 2026) | pending... | pending... |
