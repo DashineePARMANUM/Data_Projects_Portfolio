@@ -9,7 +9,6 @@ As a Statistics undergraduate, I’ve worked on a mix of coursework-based and se
 Even after completing them, I continue to refine these projects, finding small mistakes, rewording explanations, and tweaking code in an effort to perfect my work and deepen my understanding
 
 ## Projects Overview
-Below is a snapshot of some of my key projects. Each project folder contains a description, datasets, code/scripts, visualizations, and a report.
 
 | Project | Tools | Description |
 |---------|-------|-------------|
