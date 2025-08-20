@@ -6,7 +6,7 @@ Welcome to my Data Projects Portfolio! Here, you can explore most of the project
 
 As a Statistics undergraduate, I wanted to complement my university coursework by focusing on real-world data projects and sharpening industry-relevant skills.  
 
-Even after completing them, I continue to refine these projects—correcting small mistakes, rewording explanations, and tweaking code—to deepen my understanding and present polished work.
+Even after completing them, I continue to refine these projects, finding small mistakes, rewording explanations, and tweaking code in an effort to perfect my work and deepen my understanding
 
 ## Projects Overview
 Below is a snapshot of some of my key projects. Each project folder contains a description, datasets, code/scripts, visualizations, and a report.
