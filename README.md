@@ -1,20 +1,26 @@
 # Data Projects Portfolio
 
-Welcome to my Data Projects Portfolio, here you will be able to redirect to most of the projects i've worked on. most of them are self-decreted.
+Welcome to my Data Projects Portfolio! Here, you can explore most of the projects I've worked on, many of which are self-directed.
 
 ## About
 
-As a Statistics undergraduate, I wanted to complement my university coursework by focusing on real-world data projects and sharpening industry-relevant skills. 
+As a Statistics undergraduate, I wanted to complement my university coursework by focusing on real-world data projects and sharpening industry-relevant skills.  
 
-Even after completing them, I continue to refine these projects, finding small mistakes, rewording explanations, and tweaking code in an effort to perfect my work and deepen my understanding.
+Even after completing them, I continue to refine these projects—correcting small mistakes, rewording explanations, and tweaking code—to deepen my understanding and present polished work.
 
 ## Projects Overview
-??
+Below is a snapshot of some of my key projects. Each project folder contains a description, datasets, code/scripts, visualizations, and a report.
+
+| Project | Tools | Description |
+|---------|-------|-------------|
+| Summer 2025 Mini Projects | Excel, SQL, R, Python, Power BI | Hands-on data projects to familiarize with tools. |
+| Hybrid Project 1 (Fall 2025) | pending... | pending... |
+| Hybrid Project 2 (Winter 2026) | pending... | pending... |
+| Hybrid Project 3 (Winter 2026) | pending... | pending... |
 
 ## How to Use This Repo
-
-- 
-- Feel free to clone or fork the repo to try the projects yourself :)
+- Click on any project link to explore the code, datasets, and documentation.  
+- Feel free to clone or fork any project to try it yourself :)
 
 ## License
 
