@@ -4,7 +4,7 @@ Welcome to my Data Projects Portfolio! Here, you can explore most of the project
 
 ## About
 
-As a Statistics undergraduate, I wanted to complement my university coursework by focusing on real-world data projects and sharpening industry-relevant skills.  
+As a Statistics undergraduate, I’ve worked on a mix of coursework-based and self-directed projects to apply my learning to real-world problems and sharpen industry-relevant skills.
 
 Even after completing them, I continue to refine these projects, finding small mistakes, rewording explanations, and tweaking code in an effort to perfect my work and deepen my understanding
 
