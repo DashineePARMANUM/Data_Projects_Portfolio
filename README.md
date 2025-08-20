@@ -13,7 +13,7 @@ Even after completing them, I continue to refine these projects, finding small m
 | Project | Tools | Description |
 |---------|-------|-------------|
 | [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) | Excel, SQL, R, Python, Power BI | Hands-on projects demonstrating proficiency across various tools. |
-| [superstore-data-analysis](https://github.com/DashineePARMANUM/superstore-data-analysis) | Excel, SQL, Power BI | Analysis of sales, products, and customer trends for a U.S. superstore dataset. |
+| [superstore-data-analysis](https://github.com/DashineePARMANUM/superstore-data-analysis) | Excel, SQL, Power BI | Sales and customer trends analysis for a U.S. superstore. |
 | Hybrid Project 2 (Winter 2026) | pending... | pending... |
 | Hybrid Project 3 (Winter 2026) | pending... | pending... |
 
