@@ -14,8 +14,8 @@ Even after completing them, I continue to refine these projects, finding small m
 |---------|-------|-------------|
 | [statistics-projects-summer-2025](https://github.com/DashineePARMANUM/statistics-projects-summer-2025) | Excel, SQL, R, Python, Power BI | Hands-on projects demonstrating proficiency across various tools. |
 | [superstore-data-analysis](https://github.com/DashineePARMANUM/superstore-data-analysis) | Excel, SQL, Power BI | Sales and customer trends analysis for a U.S. superstore. |
-| Hybrid Project 2 (Winter 2026) | pending... | pending... |
-| Hybrid Project 3 (Winter 2026) | pending... | pending... |
+| [titanic-data-analysis](https://github.com/DashineePARMANUM/titanic-data-analysis) | pending... | pending... |
+| [wine-quality-data-analysis](https://github.com/DashineePARMANUM/wine-quality-data-analysis) | pending... | pending... |
 
 ## How to Use This Repo
 - Click on any project link to explore the code, datasets, and documentation.  
