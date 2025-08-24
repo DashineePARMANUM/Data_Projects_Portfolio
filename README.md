@@ -1,6 +1,6 @@
 # Data Projects Portfolio
 
-Welcome to my Data Projects Portfolio! Here, you can explore most of the projects I've worked on, many of which are self-directed.
+Welcome to my Data Projects Portfolio! Here, you can explore most of the projects I've worked on, most of which are self-directed.
 
 ## About
 
